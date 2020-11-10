@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Mohammad Althegah"
-  avatar : "/assets/images/image.jpg"
+  avatar : "/assets/images/image.png"
   bio    : "Data Scientist. Traveler"
   links:
     - label: "Website"
