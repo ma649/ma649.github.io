@@ -1,7 +1,7 @@
 ---
 title: "My Articles on Data Science"
 permalink: /articles/
-layout: single_index
+layout: single 
 author_profile: true
 ---
 
