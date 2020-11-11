@@ -3,6 +3,6 @@ update daily from the <a href=" https://opendata.ecdc.europa.eu/covid19/casedist
 
 You can check the project from my [from this link](https://github.com/ma649/Covid19-Streamlit)
 
-(https://github.com/ma649/Covid19-Streamlit/blob/main/interface.png)
+![image](https://github.com/ma649/Covid19-Streamlit/blob/main/interface.png)
 
 
