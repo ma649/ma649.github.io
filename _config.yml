@@ -109,8 +109,8 @@ defaults:
       author_profile: true
 
 category_archive:
-  type: liquid
-  path: /projects/ #/categories/
+  type: jekyll-archives #liquid
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
