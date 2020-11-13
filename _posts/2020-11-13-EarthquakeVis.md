@@ -18,3 +18,6 @@ The colour and size of marks indicate the magnitude of the earqthquake.  Note: T
 
 You can view this project on my ![github page](https://github.com/ma649/EarthquakeVisualization).
 
+![image](https://ma649.github.io/assets/images/earthquakeSnippet.png)
+
+
