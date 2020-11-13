@@ -1,7 +1,7 @@
 ---
 published: true
 layout: single
-title: 'Earthquake Altair Visialization'
+title: 'Earthquake Altair Visualization'
 author_profile: true
 read_time: true
 categories: [projects]
