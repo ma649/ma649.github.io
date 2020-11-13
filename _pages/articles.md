@@ -1,5 +1,5 @@
 ---
-title: "My Articles on Data Science"
+title: "Data Science Articles"
 permalink: /articles/
 layout: single 
 author_profile: true
