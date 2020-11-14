@@ -17,6 +17,6 @@ A* is an informed search algorithm, or a best-first search, meaning that it is f
 starting from a specific starting node of a graph, it aims to find a path to the given goal node having the smallest cost 
 (least distance travelled, shortest time, etc.)
 
-You can view the project from my ![Github link] (https://github.com/ma649/A-starPuzzle)
+You can view the project from my [Github link](https://github.com/ma649/A-starPuzzle)
 
 ![image](astarSnippet.PNG)
