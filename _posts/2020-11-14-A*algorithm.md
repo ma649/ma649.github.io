@@ -10,13 +10,13 @@ toc_sticky: true
 sidebar:
     nav: sidebar-sample
 header:
-    teaser: "https://ma649.github.io/assets/images/earthquakeTeaser.png"
+    teaser: "https://ma649.github.io/assets/images/astarSnippet.png"
 ---
 
 A* is an informed search algorithm, or a best-first search, meaning that it is formulated in terms of weighted graphs: 
 starting from a specific starting node of a graph, it aims to find a path to the given goal node having the smallest cost 
 (least distance travelled, shortest time, etc.)
 
-You can view the project from my [Github link](https://github.com/ma649/A-starPuzzle)
+You can view the project on my [Github link](https://github.com/ma649/A-starPuzzle)
 
-![image](astarSnippet.PNG)
+![image](https://ma649.github.io/assets/images/astarSnippet.png.PNG)
