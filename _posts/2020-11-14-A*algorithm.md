@@ -19,4 +19,4 @@ starting from a specific starting node of a graph, it aims to find a path to the
 
 You can view the project on my [Github link](https://github.com/ma649/A-starPuzzle)
 
-![image](/assets/images/astarSnippet.png.PNG)
+![image](https://ma649.github.io/assets/images/astarSnippet.png)
