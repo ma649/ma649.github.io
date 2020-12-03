@@ -9,5 +9,5 @@ Writing down topics in my own words usually helps me understand the subject at h
 <br><br>
 -Currently Working On-
 <br>
-Next article will be published on: 20.11.2020
+Next article will be published on the 10th of Dec.
 <br>
