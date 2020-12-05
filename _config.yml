@@ -76,6 +76,9 @@ author:
     - label: "Youtube"
       icon: 'fab fa-fw fa-youtube'
       url: 'https://www.youtube.com/channel/UCb3r-YDqZvxrTXhARTQrGhA'
+    - label: "Redbubble"
+      icon: 'fab fa-fw fa-redbubble'
+      url: 'https://www.redbubble.com/people/ma649/shop?asc=u&ref=account-nav-dropdown'
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
