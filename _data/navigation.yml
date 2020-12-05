@@ -3,6 +3,8 @@ main:
     url: /articles/
   - title: "Projects"
     url: /projects/
+  - title: "Machine Three"
+    url: /MachineThree/
   #- title: "Tags"
   #  url: /tags/
   #- title: "About"
