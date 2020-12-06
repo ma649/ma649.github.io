@@ -14,4 +14,4 @@ header:
 ---
 
 
-[![Machine Three Intro](https://ma649.github.io/assets/images/Thumbnail.1.PNG)](https://youtu.be/aCoislwShJs)
+[![Machine Three Intro]("https://ma649.github.io/assets/images/Thumbnail.1.PNG")](https://youtu.be/aCoislwShJs)
