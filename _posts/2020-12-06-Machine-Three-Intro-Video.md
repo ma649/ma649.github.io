@@ -10,8 +10,8 @@ toc_sticky: true
 sidebar:
     nav: sidebar-sample
 header:
-    teaser: "https://ma649.github.io/assets/images/thumbnail.1.PNG"
+    teaser: "https://ma649.github.io/assets/images/Thumbnail.1.PNG"
 ---
 
 
-[![Machine Three Intro](https://ma649.github.io/assets/images/thumbnail.1.PNG)](https://youtu.be/aCoislwShJs)
+[![Machine Three Intro](https://ma649.github.io/assets/images/Thumbnail.1.PNG)](https://youtu.be/aCoislwShJs)
