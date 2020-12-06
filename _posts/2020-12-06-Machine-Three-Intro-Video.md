@@ -15,5 +15,5 @@ header:
 
 
 <a href="https://www.youtube.com/watch?v=aCoislwShJs">
-<img border="0" alt="intro" src="https://ma649.github.io/assets/images/Thumbnail.1.png" width="100" height="100">
+<img border="0" alt="intro" src="https://ma649.github.io/assets/images/Thumbnail.1.png" width="1000" height="1000">
     
