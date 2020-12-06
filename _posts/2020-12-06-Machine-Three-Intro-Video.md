@@ -10,10 +10,10 @@ toc_sticky: true
 sidebar:
     nav: sidebar-sample
 header:
-    teaser: "https://ma649.github.io/assets/images/Thumbnail.1.PNG"
+    teaser: "https://ma649.github.io/assets/images/Thumbnail.1.png"
 ---
 
 
 <a href="https://www.youtube.com/watch?v=aCoislwShJs">
-<img border="0" alt="intro" src="https://ma649.github.io/assets/images/Thumbnail.1.PNG" width="100" height="100">
+<img border="0" alt="intro" src="https://ma649.github.io/assets/images/Thumbnail.1.png" width="100" height="100">
     
