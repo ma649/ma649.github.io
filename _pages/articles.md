@@ -12,3 +12,12 @@ Writing down topics in my own words usually helps me understand the subject at h
 Linear Regression.
 <br>
 Supervised Learning
+
+
+<div class="grid__wrapper">
+    {% for post in site.posts %}
+        {% if post.categories contains 'projects' %}
+            {% include archive-single.html type="grid" %}
+        {% endif %}
+    {% endfor %}
+</div>
