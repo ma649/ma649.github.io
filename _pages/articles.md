@@ -9,5 +9,6 @@ Writing down topics in my own words usually helps me understand the subject at h
 <br><br>
 -Currently Working On-
 <br>
-Next article will be published on the 10th of Dec.
+Linear Regression.
 <br>
+Supervised Learning
