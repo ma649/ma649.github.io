@@ -10,7 +10,7 @@ toc_sticky: true
 sidebar:
     nav: sidebar-sample
 header:
-    teaser: "https://ma649.github.io/assets/images/astarSnippet.PNG"
+    teaser: "https://ma649.github.io/assets/images/NHANES-snippet.PNG"
 ---
 The NHANES project is my thesis proposal for my Masters. Here is the abstract:
 
