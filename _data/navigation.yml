@@ -1,7 +1,7 @@
 main:
   - title: "Articles"
     url: /articles/
-  - title: "Projects"
+  - title: "Machine Learning Projects"
     url: /projects/
   - title: "Machine Three"
     url: /MachineThree/
