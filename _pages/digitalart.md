@@ -1,4 +1,3 @@
-
 ---
 title: "Digital Art Portfolio"
 permalink: /digitalart/
