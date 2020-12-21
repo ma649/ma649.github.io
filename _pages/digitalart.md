@@ -1,6 +1,6 @@
 
 ---
-title: "Digital Art"
+title: "Digital Art Portfolio"
 permalink: /digitalart/
 layout: archive
 author_profile: true
