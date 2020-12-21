@@ -5,6 +5,8 @@ main:
     url: /projects/
   - title: "Machine Three"
     url: /MachineThree/
+  - title: "Digital Art"
+    url: /digitalart/
   #- title: "Tags"
   #  url: /tags/
   #- title: "About"
