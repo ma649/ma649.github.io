@@ -79,9 +79,12 @@ author:
     - label: "Redbubble"
       icon: 'fab fa-fw fa-redbubble'
       url: 'https://www.redbubble.com/people/ma649/shop?asc=u&ref=account-nav-dropdown'
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+    - label: "Instagram Art"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/otusflow_art"
+    - label: "Instagram MachineThree"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/machine3one"
 
 footer:
   links:
