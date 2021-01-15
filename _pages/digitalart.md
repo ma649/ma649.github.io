@@ -12,6 +12,7 @@ As you can see, I am a big digital art fan. I am not a proffessional artist (yet
         {% endif %}
     {% endfor %}
 </div>
+<br clear="all" /><br/>
 
 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#19a2cf', 'C0C3387TR');kofiwidget2.draw();</script> 
 
