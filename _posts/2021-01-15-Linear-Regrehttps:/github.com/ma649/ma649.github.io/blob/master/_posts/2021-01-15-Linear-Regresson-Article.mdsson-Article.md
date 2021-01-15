@@ -18,9 +18,9 @@ header:
 
 Linear Regression is an important introductary topic for those who are starting to get into machine learning / statistics. 
 Understanding the main concept behind it is essential as it will allow you to transition into other complex algorithms. Linear Regression falls under 
-Supervised Learning. This means we are provided with the input and output values. And it is a form of regression analysis.  
+Supervised Learning. This means we are provided with the input and output values, and we try to predict an outcome based on this information. As the name suggests,
+Linear regression is a form of regression analysis (as opposed to Classification). In this instance, we are trying to predict a continious variable.
 
-As the name suggests, in 
 
 The goal of linear regression is simple, we aim to draw the line of best fit.
 
