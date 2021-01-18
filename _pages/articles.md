@@ -7,11 +7,6 @@ author_profile: true
 
 Writing down topics in my own words usually helps me understand the subject at hand better. Here, I will be publishing articles that explain various concepts in Machine Learning and Deep Learning. 
 <br><br>
--Currently Working On-
-<br>
-Linear Regression.
-<br>
-Supervised Learning
 
 
 <div class="grid__wrapper">
@@ -21,3 +16,7 @@ Supervised Learning
         {% endif %}
     {% endfor %}
 </div>
+
+<br clear="all" /><br/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3387TR)
