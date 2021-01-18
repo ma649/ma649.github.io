@@ -12,8 +12,8 @@ sidebar:
 header:
     teaser: "https://ma649.github.io/assets/images/Linear1.jpg"
 ---
-Linear Regression.
-<br clear="all" /><br/>
+LR.
+
 <b>Linear Regression</b> is an important introductary topic for those who are starting out in machine learning / statistics. 
 Understanding the main concept behind it is essential as it will allow you to transition into other complex algorithms.
 <br clear="all" /><br/>
