@@ -19,4 +19,4 @@ Writing down topics in my own words usually helps me understand the subject at h
 
 <br clear="all" /><br/>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3387TR)
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'C0C3387TR');kofiwidget2.draw();</script> 
