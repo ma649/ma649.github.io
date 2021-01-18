@@ -12,9 +12,9 @@ sidebar:
 header:
     teaser: "https://ma649.github.io/assets/images/Linear1.jpg"
 ---
-
-
-<b>Linear Regression<b> is an important introductary topic for those who are starting out in machine learning / statistics. 
+Linear Regression.
+<br clear="all" /><br/>
+<b>Linear Regression</b> is an important introductary topic for those who are starting out in machine learning / statistics. 
 Understanding the main concept behind it is essential as it will allow you to transition into other complex algorithms.
 <br clear="all" /><br/>
 Linear Regression falls under <b>Supervised Learning</b>. This means we are provided with the input and output values, and we try to predict an outcome based on this information. As the name suggests, Linear regression is a form of regression analysis (as opposed to Classification). In this instance, we are trying to predict a continious variable i.e temperature or prices instead of labels. 
