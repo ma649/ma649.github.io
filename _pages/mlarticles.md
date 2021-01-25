@@ -1,6 +1,6 @@
 ---
 title: "Data Science Articles"
-permalink: /articles/
+permalink: /mlarticles/
 layout: single 
 author_profile: true
 ---
@@ -11,7 +11,7 @@ Writing down topics in my own words usually helps me understand the subject at h
 
 <div class="grid__wrapper">
     {% for post in site.posts %}
-        {% if post.categories contains 'articles' %}
+        {% if post.categories contains 'mlarticles' %}
             {% include archive-single.html type="grid" %}
         {% endif %}
     {% endfor %}
