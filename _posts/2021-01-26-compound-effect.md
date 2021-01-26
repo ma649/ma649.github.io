@@ -10,7 +10,7 @@ toc_sticky: true
 sidebar:
     nav: sidebar-sample
 header:
-    teaser: ""
+    teaser: "https://ma649.github.io/assets/images/87E10DF9-549C-4B8D-AA3E-FD632B48BB24.png"
 ---
 
 I have recently stumbled accross a new concept I read from twitter (yes, twitter) called the compound effect. The idea is simple, actions you do consistenly and in little
