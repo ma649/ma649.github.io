@@ -26,7 +26,7 @@ learn and memorize. Putting it into action by speaking and listening is even mor
 single day you spend as little as 15 minutes, have not gone to waste. It is being engrained in your muscle memory and one day it will 'click'. For me, it can be a sudden moment
 of realization while I am speaking or reading, where my mind goes: 'Wait, did I just suddenly improve? Why am I suddenly flowing while speaking/reading'. You didnt just get better,
 its the little dividends you took every day that has buit up over time. 
-- Writing
+- Writing.
     - I am experimenting with writing as you can see. Although I dont think I am particularly good at writing, I consider English as my strongest language. Even more than my native language, arabic. I'm not going to lie, its a strange feeling when you're native language is no where near as good as your secondary language. With that being said, I attribute my writing skills to all the days of practice I had in high school as you are forced to write essays. I also had significant help from teachers. Although my writing was quite bad in high school, its thanks to those days which helped elevate my writing 100%. Fastforward to uni, I am able to write academic level papers without much help. 
     
 Long term consistency over short term intensity.
