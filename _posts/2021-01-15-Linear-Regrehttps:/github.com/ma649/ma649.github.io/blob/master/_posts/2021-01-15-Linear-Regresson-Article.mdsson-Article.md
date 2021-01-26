@@ -4,7 +4,7 @@ layout: single
 title: 'Linear Regression'
 author_profile: true
 read_time: true
-categories: [articles]
+categories: [mlarticles]
 toc: true
 toc_sticky: true
 sidebar:
