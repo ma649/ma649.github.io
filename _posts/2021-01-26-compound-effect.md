@@ -28,3 +28,5 @@ of realization while I am speaking or reading, where my mind goes: 'Wait, did I 
 its the little dividends you took every day that has buit up over time. 
 - Writing
     - I am experimenting with writing as you can see. Although I dont think I am particularly good at writing, I consider English as my strongest language. Even more than my native language, arabic. I'm not going to lie, its a strange feeling when you're native language is no where near as good as your secondary language. With that being said, I attribute my writing skills to all the days of practice I had in high school as you are forced to write essays. I also had significant help from teachers. Although my writing was quite bad in high school, its thanks to those days which helped elevate my writing 100%. Fastforward to uni, I am able to write academic level papers without much help. 
+    
+Long term consistency over short term intensity.
