@@ -21,7 +21,7 @@ Well, I find this to be very true, the more you stick with something, the more y
 
 Let me give you some Example of habbits/skills that may not be rewarding in the moment but become an extremely valuable asset when you stick with it:
 - Learning languages. 
-    -The first 6 months of learning a language is usually the most frustrating time for me. There are so many vocabulary and grammar rules you have
+    - The first 6 months of learning a language is usually the most frustrating time for me. There are so many vocabulary and grammar rules you have
 learn and memorize. Putting it into action by speaking and listening is even more frustrating because it seems like you have not made any progress at all. However, every
 single day you spend as little as 15 minutes, have not gone to waste. It is being engrained in your muscle memory and one day it will 'click'. For me, it can be a sudden moment
 of realization while I am speaking or reading, where my mind goes: 'Wait, did I just suddenly improve? Why am I suddenly flowing while speaking/reading'. You didnt just get better,
