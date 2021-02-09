@@ -5,8 +5,8 @@ main:
     url: /mlarticles/
   - title: "Projects"
     url: /projects/
-  - title: "Youtube"
-    url: /MachineThree/
+  #- title: "Youtube"
+  #  url: /MachineThree/
   - title: "Digital Art"
     url: /digitalart/
   #- title: "Tags"
