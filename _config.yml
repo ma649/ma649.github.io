@@ -77,9 +77,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ma649"
-    - label: "Youtube ART"
-      icon: 'fab fa-fw fa-youtube'
-      url: 'https://www.youtube.com/channel/UCVy8EZzRBH9GIZrb3jUrnuQ'
+    - label: "OpenSea NFT"
+      icon: 'fab fa-fw fa-OpenSea'
+      url: 'https://opensea.io/collection/otusprojekt1'
     - label: "Otus Projekt"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/otus.projekt"
